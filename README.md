@@ -1,88 +1,75 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=00FF41&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=80&amp;lines=%24+whoami;%3E+noots;%24+role+--current;%3E+Aspiring+Backend+Engineer" alt="Terminal introduction" />
+<img src="./assets/midnight-channel.svg" width="100%" alt="noots - Backend Engineer in Training" />
+
+![Backend](https://img.shields.io/badge/ROLE-BACKEND_IN_TRAINING-F7D51D?style=for-the-badge&labelColor=111111&color=F7D51D)
+![Building](https://img.shields.io/badge/STATUS-BUILDING-E53935?style=for-the-badge&labelColor=111111&color=E53935)
+![Focus](https://img.shields.io/badge/FOCUS-RELIABLE_SYSTEMS-F7D51D?style=for-the-badge&labelColor=111111&color=F7D51D)
 
 </div>
 
-```console
-noots@github:~$ cat about.txt
+## SOCIAL LINK // ABOUT
 
-Aspiring backend engineer focused on building reliable,
-maintainable, and well-structured systems.
-
-Currently learning and building with Java, Spring Boot,
-PostgreSQL, Python, and TypeScript.
-
-code code code all day
+```text
+NAME      noots
+ROLE      Aspiring Backend Engineer
+FOCUS     Reliable systems, clean architecture, useful products
+MOTTO     code code code all day
 ```
 
-## `$ cat tech-stack.txt`
+I build systems from the database outward. My current work explores backend architecture, deterministic business rules, operational workflows, and the interfaces that make them useful.
+
+> The truth is in the implementation.
+
+## SKILL CARD // LOADOUT
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF41)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=00FF41)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF41)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00FF41)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00FF41)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00FF41)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF41)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=F7D51D)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=F7D51D)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=F7D51D)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=F7D51D)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=F7D51D)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=F7D51D)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=F7D51D)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F7D51D)
 
 </div>
 
-## `$ ls ~/projects`
+| Core | Building With | Engineering Interests |
+| :--- | :--- | :--- |
+| Java, Spring Boot | Next.js, TypeScript | API and domain design |
+| PostgreSQL, Flyway | Python, Docker | Rule-based systems |
+| Git, REST APIs | Full-stack workflows | Maintainability and product thinking |
 
-### `orgvault/`
-
-> An operational-readiness system for student organization events and leadership turnover.
-
-```yaml
-project: OrgVault
-status: active development
-visibility: private until completed
-
-frontend:
-  - Next.js
-  - TypeScript
-
-backend:
-  - Java
-  - Spring Boot
-
-database:
-  - PostgreSQL
-  - Flyway
-
-focus:
-  - event readiness
-  - leadership turnover
-  - organizational knowledge
-  - deterministic rule-based evaluation
-```
-
-![Status](https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-00FF41?style=for-the-badge&labelColor=0D1117)
-
-## `$ git stats`
+## CURRENT MISSION // ORGVAULT
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Noootnoot343&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=C9D1D9&amp;ring_color=00FF41" alt="GitHub statistics" />
+<img src="./assets/orgvault-card.svg" width="100%" alt="OrgVault - Current Mission" />
 
 </div>
 
-## `$ git log --graph`
+**OrgVault** is an operational-readiness system for student organization events and leadership turnover.
+
+- Models event preparation and turnover requirements as explicit, explainable rules
+- Preserves organizational knowledge across changing leadership teams
+- Uses Spring Boot, Next.js, PostgreSQL, and Flyway
+- Remains private while it is under active development
+
+## BATTLE STATS // ACTIVITY
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noootnoot343&amp;theme=github_dark" alt="GitHub contribution summary" />
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=Noootnoot343&amp;show_icons=true&amp;hide_border=false&amp;bg_color=F7D51D&amp;title_color=111111&amp;text_color=111111&amp;icon_color=E53935&amp;border_color=111111&amp;border_radius=0" alt="noots GitHub statistics" />
+<img height="195" src="https://streak-stats.demolab.com?user=Noootnoot343&amp;hide_border=false&amp;background=F7D51D&amp;border=111111&amp;stroke=111111&amp;ring=E53935&amp;fire=E53935&amp;currStreakNum=111111&amp;sideNums=111111&amp;currStreakLabel=111111&amp;sideLabels=111111&amp;dates=333333" alt="noots contribution streak" />
 
 </div>
 
-```console
-noots@github:~$ echo "code code code all day"
+## OPEN A CHANNEL
 
-code code code all day
+<div align="center">
 
-noots@github:~$ _
-```
+[![GitHub](https://img.shields.io/badge/GITHUB-NOOOTNOOT343-F7D51D?style=for-the-badge&logo=github&logoColor=111111&labelColor=FFFFFF)](https://github.com/Noootnoot343)
+
+</div>
