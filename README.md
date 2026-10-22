@@ -4,6 +4,7 @@
 
 ![Learning Java and Spring Boot](https://img.shields.io/badge/LEARNING-JAVA_%2B_SPRING_BOOT-08263F?style=for-the-badge&logo=springboot&logoColor=65DAFF&labelColor=061A32)
 ![Learning PostgreSQL](https://img.shields.io/badge/LEARNING-POSTGRESQL-08263F?style=for-the-badge&logo=postgresql&logoColor=65DAFF&labelColor=061A32)
+![Learning Python](https://img.shields.io/badge/LEARNING-PYTHON-08263F?style=for-the-badge&logo=python&logoColor=65DAFF&labelColor=061A32)
 ![Status](https://img.shields.io/badge/STATUS-CS_STUDENT-1187B9?style=for-the-badge&labelColor=061A32)
 
 </div>
@@ -17,7 +18,7 @@ FOCUS     Learning backend and database fundamentals
 MOTTO     code code code all day
 ```
 
-I am a CS student exploring backend development through small projects and hands-on practice. I am currently learning Java, Spring Boot, PostgreSQL, Next.js, and TypeScript.
+I am a CS student exploring backend development through small projects and hands-on practice. I am currently learning Java, Spring Boot, PostgreSQL, Python, Next.js, and TypeScript.
 
 ### Currently learning
 
@@ -25,6 +26,7 @@ I am a CS student exploring backend development through small projects and hands
 - REST API concepts
 - PostgreSQL and database basics
 - Flyway database migrations
+- Python fundamentals
 - Next.js and TypeScript
 - Git and Docker basics
 
