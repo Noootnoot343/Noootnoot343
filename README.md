@@ -1,52 +1,54 @@
 <div align="center">
 
-<img src="./assets/midnight-channel.svg" width="100%" alt="noots - Backend Engineer in Training" />
+<img src="./assets/profile-hero.svg" width="100%" alt="noots - Backend Developer in Training" />
 
-![Backend](https://img.shields.io/badge/ROLE-BACKEND_IN_TRAINING-F7D51D?style=for-the-badge&labelColor=111111&color=F7D51D)
-![Building](https://img.shields.io/badge/STATUS-BUILDING-E53935?style=for-the-badge&labelColor=111111&color=E53935)
-![Focus](https://img.shields.io/badge/FOCUS-RELIABLE_SYSTEMS-F7D51D?style=for-the-badge&labelColor=111111&color=F7D51D)
+![Backend](https://img.shields.io/badge/BACKEND-SPRING_BOOT-08263F?style=for-the-badge&logo=springboot&logoColor=65DAFF&labelColor=061A32)
+![Database](https://img.shields.io/badge/DATABASE-POSTGRESQL-08263F?style=for-the-badge&logo=postgresql&logoColor=65DAFF&labelColor=061A32)
+![Status](https://img.shields.io/badge/STATUS-LEARNING_BY_BUILDING-1187B9?style=for-the-badge&labelColor=061A32)
 
 </div>
 
-## SOCIAL LINK // ABOUT
+## Profile
 
 ```text
 NAME      noots
-ROLE      Aspiring Backend Engineer
-FOCUS     Reliable systems, clean architecture, useful products
+ROLE      IT Student / Aspiring Backend Developer
+FOCUS     Backend fundamentals and database-driven applications
 MOTTO     code code code all day
 ```
 
-I build systems from the database outward. My current work explores backend architecture, deterministic business rules, operational workflows, and the interfaces that make them useful.
+I am learning backend development by building projects and improving them one feature at a time. I currently work with Java, Spring Boot, PostgreSQL, Next.js, and TypeScript.
 
-> The truth is in the implementation.
+### What I can do now
 
-## SKILL CARD // LOADOUT
+- Build basic REST API endpoints with Spring Boot
+- Store and query application data with PostgreSQL
+- Manage database changes with Flyway migrations
+- Connect a Next.js interface to backend endpoints
+- Use Git, Docker, and local development tools for project work
+
+## Development Loadout
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=F7D51D)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=F7D51D)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=F7D51D)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=F7D51D)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=F7D51D)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=F7D51D)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=F7D51D)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F7D51D)
+<img src="./assets/stack-card.svg" width="100%" alt="Development stack" />
+
+![Java](https://img.shields.io/badge/Java-08263F?style=for-the-badge&logo=openjdk&logoColor=65DAFF)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-08263F?style=for-the-badge&logo=springboot&logoColor=65DAFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-08263F?style=for-the-badge&logo=postgresql&logoColor=65DAFF)
+![Python](https://img.shields.io/badge/Python-08263F?style=for-the-badge&logo=python&logoColor=65DAFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-08263F?style=for-the-badge&logo=typescript&logoColor=65DAFF)
+![Next.js](https://img.shields.io/badge/Next.js-08263F?style=for-the-badge&logo=nextdotjs&logoColor=65DAFF)
+![Docker](https://img.shields.io/badge/Docker-08263F?style=for-the-badge&logo=docker&logoColor=65DAFF)
+![Git](https://img.shields.io/badge/Git-08263F?style=for-the-badge&logo=git&logoColor=65DAFF)
 
 </div>
 
-| Core | Building With | Engineering Interests |
-| :--- | :--- | :--- |
-| Java, Spring Boot | Next.js, TypeScript | API and domain design |
-| PostgreSQL, Flyway | Python, Docker | Rule-based systems |
-| Git, REST APIs | Full-stack workflows | Maintainability and product thinking |
-
-## CURRENT MISSION // ORGVAULT
+## Current Build
 
 <div align="center">
 
-<img src="./assets/orgvault-card.svg" width="100%" alt="OrgVault - Current Mission" />
+<img src="./assets/orgvault-card.svg" width="100%" alt="OrgVault - Active Project" />
 
 </div>
 
@@ -57,19 +59,23 @@ I build systems from the database outward. My current work explores backend arch
 - Uses Spring Boot, Next.js, PostgreSQL, and Flyway
 - Remains private while it is under active development
 
-## BATTLE STATS // ACTIVITY
+## Activity
 
 <div align="center">
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=Noootnoot343&amp;show_icons=true&amp;hide_border=false&amp;bg_color=F7D51D&amp;title_color=111111&amp;text_color=111111&amp;icon_color=E53935&amp;border_color=111111&amp;border_radius=0" alt="noots GitHub statistics" />
-<img height="195" src="https://streak-stats.demolab.com?user=Noootnoot343&amp;hide_border=false&amp;background=F7D51D&amp;border=111111&amp;stroke=111111&amp;ring=E53935&amp;fire=E53935&amp;currStreakNum=111111&amp;sideNums=111111&amp;currStreakLabel=111111&amp;sideLabels=111111&amp;dates=333333" alt="noots contribution streak" />
+<img src="./assets/activity-header.svg" width="100%" alt="Development activity" />
+
+<img src="https://www.gitskins.com/api/section/heatmap?username=noootnoot343&amp;theme=ocean" width="100%" alt="Blue contribution activity heatmap" />
+
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=Noootnoot343&amp;show_icons=true&amp;hide_border=false&amp;bg_color=061A32&amp;title_color=65DAFF&amp;text_color=D8F5FF&amp;icon_color=39C6F4&amp;border_color=1596C8&amp;border_radius=14" alt="noots GitHub statistics" />
+<img height="195" src="https://streak-stats.demolab.com?user=Noootnoot343&amp;hide_border=false&amp;background=061A32&amp;border=1596C8&amp;stroke=1596C8&amp;ring=65DAFF&amp;fire=39C6F4&amp;currStreakNum=FFFFFF&amp;sideNums=D8F5FF&amp;currStreakLabel=65DAFF&amp;sideLabels=9DE8FF&amp;dates=79CDEB" alt="noots contribution streak" />
 
 </div>
 
-## OPEN A CHANNEL
+## Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-NOOOTNOOT343-F7D51D?style=for-the-badge&logo=github&logoColor=111111&labelColor=FFFFFF)](https://github.com/Noootnoot343)
+[![GitHub](https://img.shields.io/badge/GITHUB-NOOOTNOOT343-1596C8?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=061A32)](https://github.com/Noootnoot343)
 
 </div>
