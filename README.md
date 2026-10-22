@@ -31,9 +31,7 @@ I am learning backend development by building projects and improving them one fe
 
 <div align="center">
 
-<img src="https://www.gitskins.com/api/section/heatmap?username=noootnoot343&amp;theme=ocean" width="100%" alt="Blue contribution activity heatmap" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Noootnoot343&amp;show_icons=true&amp;hide_border=false&amp;bg_color=061A32&amp;title_color=65DAFF&amp;text_color=D8F5FF&amp;icon_color=39C6F4&amp;border_color=1596C8&amp;border_radius=10" alt="noots GitHub statistics" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Noootnoot343&amp;show_icons=true&amp;card_width=495&amp;hide_border=false&amp;bg_color=061A32&amp;title_color=65DAFF&amp;text_color=D8F5FF&amp;icon_color=39C6F4&amp;border_color=1596C8&amp;border_radius=10" alt="noots GitHub statistics" />
 <img width="48%" src="https://streak-stats.demolab.com?user=Noootnoot343&amp;hide_border=false&amp;background=061A32&amp;border=1596C8&amp;stroke=1596C8&amp;ring=65DAFF&amp;fire=39C6F4&amp;currStreakNum=FFFFFF&amp;sideNums=D8F5FF&amp;currStreakLabel=65DAFF&amp;sideLabels=9DE8FF&amp;dates=79CDEB" alt="noots contribution streak" />
 
 </div>

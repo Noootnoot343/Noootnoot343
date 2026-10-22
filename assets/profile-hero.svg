@@ -14,7 +14,12 @@
     <path d="M615 0H900V260H770Z" fill="#0a4167"/>
     <path d="M731 0H900V260H852Z" fill="#126f9c"/>
     <path d="M788 0H900V260H870Z" fill="#45cef5" opacity="0.75"/>
-    <rect x="36" width="864" height="260" fill="url(#dots)"/>
+    <rect x="36" width="864" height="260" fill="url(#dots)">
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="-90" width="90" height="260" fill="#65daff" opacity="0.045">
+      <animate attributeName="x" values="-90;900" dur="7s" repeatCount="indefinite"/>
+    </rect>
 
     <path d="M72 48H584" stroke="#42cdf7" stroke-width="2"/>
     <path d="M72 212H710" stroke="#42cdf7" stroke-width="2"/>
@@ -27,10 +32,15 @@
 
     <g transform="translate(732 130)">
       <circle r="78" fill="#06172c" stroke="#79e0ff" stroke-width="3"/>
-      <circle r="60" fill="none" stroke="#37c8f4" stroke-width="2" stroke-dasharray="3 8"/>
+      <circle r="60" fill="none" stroke="#37c8f4" stroke-width="2" stroke-dasharray="3 8">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+      </circle>
       <circle r="40" fill="#0b4e75"/>
       <path d="M0-56V-70M0 56V70M-56 0H-70M56 0H70" stroke="#ffffff" stroke-width="3"/>
-      <text x="0" y="12" text-anchor="middle" font-family="Consolas, monospace" font-size="34" font-weight="800" fill="#ffffff">&gt;_</text>
+      <text x="-8" y="12" text-anchor="middle" font-family="Consolas, monospace" font-size="34" font-weight="800" fill="#ffffff">&gt;</text>
+      <rect x="7" y="9" width="17" height="3" fill="#ffffff">
+        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.48;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+      </rect>
     </g>
   </g>
 </svg>
