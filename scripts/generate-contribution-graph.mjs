@@ -124,8 +124,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" vi
   <path d="M742 1H886V8H894V222H850Z" fill="#0a4167" opacity="0.42"/>
   <rect x="18" y="9" width="874" height="212" fill="url(#micro-grid)"/>
 
-  <text x="44" y="37" fill="#65daff" font-size="13" font-weight="800" letter-spacing="3">NOOTS / ACTIVITY SIGNAL</text>
-  <text x="44" y="57" fill="#d8f5ff" font-size="12">$ git activity --last-year</text>
+  <text x="44" y="44" fill="#65daff" font-size="13" font-weight="800" letter-spacing="3">NOOTS / ACTIVITY SIGNAL</text>
   <text x="856" y="38" fill="#ffffff" font-size="26" font-weight="800" text-anchor="end">${total}</text>
   <text x="856" y="56" fill="#79cdeb" font-size="10" font-weight="700" text-anchor="end">CONTRIBUTIONS</text>
   <path d="M44 68H856" stroke="#1596c8" stroke-width="2"/>
